@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Verma_bookstore
+      xmlns="https://www.uwinnipeg.ca/bookstore"
+      xmlns:is="http://www.isbn.org/isbn">
+ <book>
+  <title>Ps Adobe Photoshop CC 2019 Release</title>
+  <pageCount>416 pages</pageCount>
+  <published_date>1 edition (Nov. 26 2018)</published_date>
+  <is:isbn>978-0135261781</is:isbn>
+  <publisher_name xmlns="http://www.publishone.com">Adobe Press</publisher_name>
+  <book_category>Web Graphics with Adobe Photoshop</book_category>
+  <author_name>Andrew Faulkner &amp; Conrad Chavez</author_name>
+ </book>
+  <book>
+  <title>Don't Make Me Think Revisited</title>
+  <pageCount>216 pages</pageCount>
+  <published_date>3 edition (Dec 24 2013)</published_date>
+  <is:isbn>978-0321965516</is:isbn>
+  <publisher_name xmlns="http://www.publishtwo.com">New Riders</publisher_name>
+  <book_category>Web Design Principles</book_category>
+  <author_name>Steve Krug</author_name>
+ </book>
+  <book>
+  <title>Essentials of Business Communications</title>
+  <pageCount>448 pages</pageCount>
+  <published_date>9 edition (Jan. 22 2018)</published_date>
+  <is:isbn>978-0176721244</is:isbn>
+  <publisher_name xmlns="http://www.publishthree.com">Nelson College Indigenous</publisher_name>
+  <book_category>Effective Written Communication</book_category>
+  <author_name>Mary Guffey, Dana Loewy, Richard Almonte</author_name>
+ </book>
+  <book>
+  <title>An Introduction to Project Management, Sixth Edition</title>
+  <pageCount>514 pages</pageCount>
+  <published_date>Sept. 8 2017</published_date>
+  <is:isbn>978-1544701899</is:isbn>
+  <publisher_name xmlns="http://www.publishfour.com">CreateSpace Independent Publishing Platform</publisher_name>
+  <book_category>Project Managment Fundamentals</book_category>
+  <author_name>CreateSpace Independent Publishing Platform </author_name>
+ </book>
+</Verma_bookstore>
